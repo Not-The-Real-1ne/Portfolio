@@ -3,19 +3,19 @@ Welcome to my GitHub portfolio! I’m an intermediate developer who is passionat
 ## 🔍 What You’ll Find Here
 
 ### 🌐 **Simple Websites**  
-I’ve built a number of websites with a focus on teaching myself and experimenting with new things. These projects allow me to refine my front-end and back-end web development skills. You’ll find examples using HTML, CSS, and JavaScript, as well as some PHP.
+I’ve built a small amount of websites with a focus on teaching myself and experimenting with cool new things. These projects allow me to refine my front-end and back-end web development skills. You’ll find examples using HTML, CSS, and JavaScript, as well as some PHP.
 
 ### 📱 **Simple Apps**  
-I’ve also created a few simple applications mainly in Python or Java, focusing on functionality and user experience. These apps may include basic features like buttons or uploading files, developed using languages such as Python or Java.
+I’ve also created a few simple applications mainly in Python, focusing on functionality and user experience. These apps may include basic features like buttons or uploading files, developed using languages such as Python.
 
 ### 🎮 **Video Game Prototypes**  
 Game development is one of my key passions. In my portfolio, you’ll find a range of simple game prototypes built in Unity. These games showcase my skills in gameplay mechanics, UI design, and basic 3D modeling and animation.
 
 ## 🛠️ Tools & Technologies
 
-- **Programming Languages:** HTML, CSS, JavaScript, TypeScript, C, C++, C#, Python, Java
+- **Programming Languages:** HTML, CSS, JavaScript, TypeScript, C, C++, C#, Python
 - **Frameworks & Platforms:** Node.js, Unity
-- **Design & 3D Tools:** Blender
+- **Design & 3D Tools:** Blender, GIMP
 - **Version Control & Collaboration:** Git, GitHub
 - **Database & APIs:** PHP, InfinityFree
 
